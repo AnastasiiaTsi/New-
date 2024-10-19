@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    bottom: 0;
+    box-sizing: border-box;
+}
+.wrap{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+h1{
+   
+    font-family: "Playwrite GB S", cursive;
+    font-size: 36px;
+    font-weight: 600;
+}
+.box{
+    width: 700px;
+    height: 200px;
+    opacity: 30%;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+}
+
